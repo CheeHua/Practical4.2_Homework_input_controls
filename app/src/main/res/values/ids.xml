@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="ckeckBox" type="id" />
+    <item name="ckeckBox2" type="id" />
+    <item name="ckeckBox3" type="id" />
+    <item name="ckeckBox4" type="id" />
+    <item name="ckeckBox5" type="id" />
+</resources>
